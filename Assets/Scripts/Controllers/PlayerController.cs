@@ -9,6 +9,7 @@ public class PlayerController : CharacterController
     private void Awake()
     {
         _camera = Camera.main;
+        _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
     }
 
     public void OnMove(InputValue value)

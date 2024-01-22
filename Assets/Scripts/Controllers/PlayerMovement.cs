@@ -7,8 +7,10 @@ public class PlayerMovement : MonoBehaviour
 {
     private CharacterController _controller;
 
+
     private Vector2 _moveDir = Vector2.zero;
     private Rigidbody2D _rigidbody;
+
 
     private void Awake()
     {
