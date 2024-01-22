@@ -15,6 +15,8 @@ public class PlayerController : CharacterController
     {
         Vector2 moveInput = value.Get<Vector2>().normalized;
         CallMoveEvent(moveInput);
+        
+        //_camera.transform.position = (Vector2)transform.position;
 
     }
 
