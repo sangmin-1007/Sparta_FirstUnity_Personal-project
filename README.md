@@ -8,7 +8,7 @@
 - 김상민
 
 ## DevPeriod
-- 2024.01.18 ~ 2024.01.22
+- 2024.01.18 ~ 2024.01.23
 
 ## Dev Environment
 - Engine : Unity 2022.3.2f1
